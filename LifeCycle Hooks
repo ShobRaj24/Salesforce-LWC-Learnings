@@ -1,0 +1,8 @@
+Lifecycle Hooks
+Lightning Web Components provides methods that allow you to “hook” your code up to critical events in a component's lifecycle. These events include when a component is:
+
+Created
+Added to the DOM
+Rendered in the browser
+Encountering errors
+Removed from the DOM
